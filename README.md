@@ -1,6 +1,6 @@
 # Munich Transit Travel Times
 
-This is a lightweight, slice of my project that maps public-transit travel times to two Munich landmarks: Hauptbahnhof and the Airport. Provide your own API key via `.env` to fetch routes and render the interactive map.
+This is a lightweight slice of my project that maps public-transit travel times to two Munich landmarks: Hauptbahnhof and the Airport. Provide your own API key via `.env` to fetch routes and render the interactive map.
 
 ## What is inside
 - `fetch_hbf.py`: Fetches fastest transit routes to Munich Hauptbahnhof for many origins.
